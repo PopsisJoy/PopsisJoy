@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Michael.
+
+I'm a semi-retired long-time C/C++ developer.
+
+Currently messing about with more modern flavours of C++ that I'm not familiar with. Also Python.
+
 <!--
 **PopsisJoy/PopsisJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
